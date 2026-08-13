@@ -24,8 +24,6 @@ int main(){
         cin >> arr[i];
     }
     Solution sol;
-    sol.check(arr);
-    for(int nums : arr){
-        cout << nums <<" ";
-    }
+    int ans = sol.check(arr);
+    cout << (ans ? "True" : "False");
 }
