@@ -1,4 +1,4 @@
-# 🔄 246. Strobogrammatic Number
+# 246. Strobogrammatic Number
 
 ## 📝 Problem
 
